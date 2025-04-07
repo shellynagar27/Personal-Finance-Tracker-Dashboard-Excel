@@ -71,6 +71,8 @@ This project was inspired by a learning session by [Freedom](https://www.linkedi
 
 Thanks to **Freedom** for the step-by-step guidance and **Evergreen Digital Tech Solution** for hosting the session at the perfect time.
 
+---
+
 ## Others
 [Linkedin Post](https://www.linkedin.com/posts/shellynagar_last-weekend-i-finally-built-something-i-activity-7314915800207794176-SNce?utm_source=share&utm_medium=member_desktop&rcm=ACoAACm_MdkBAINlDpBdpb0l7ExWMWsm7jLltdM)
 
